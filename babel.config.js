@@ -11,6 +11,7 @@ module.exports = function config(api) {
             '@api': './src/services/api',
             '@assets': './src/assets',
             '@components': './src/components',
+            '@constants': './src/constants',
             '@hooks': './src/hooks',
             '@images': './src/assets/images',
             '@navigation': './src/services/navigation',
